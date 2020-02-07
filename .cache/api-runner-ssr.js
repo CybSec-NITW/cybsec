@@ -6,13 +6,13 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Soul Extract","short_name":"Soul Extract","start_url":"/","background_color":"#000000","theme_color":"#000000","display":"standalone","orientation":"portrait","icon":"src/images/favicon.png"},
+      options: {"plugins":[],"name":"CybSec NITW","short_name":"CybSec","start_url":"/","background_color":"#000000","theme_color":"#000000","display":"standalone","orientation":"portrait","icon":"src/images/favicon.png"},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/node_modules/gatsby-plugin-layout/gatsby-ssr'),
       options: {"plugins":[],"component":"/Users/aakashkumar/Documents/cybsec/src/layouts/Template/index.js"},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-64916263-1"},
+      options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

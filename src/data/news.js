@@ -13,9 +13,9 @@ module.exports = [
                   {
                   title: 'silverstar',
                   message: `Hello It's silverstar.
-                  Hacking is fun.`,
+                  The most interesting thing in hacking is the weakest link 🤔`,
                   image: '/images/silverstar.jpeg',
-                  link: '#'
+                  link: 'https://www.hackthebox.eu/home/users/profile/172291'
                   },
                   {
                   title: 'Lucy',
@@ -44,7 +44,7 @@ module.exports = [
                   },
                   {
                   title: 'achicka',
-                  message: `Hi I'm achicka.
+                  message: `Hi I'm Achicka.
                   I don't chicken out.`,
                   image: '/images/ashiqa.jpeg',
                   link: '#'
@@ -72,7 +72,7 @@ module.exports = [
                   {
                   title: '5and0r D3zt3z',
                   message: `This is Sandor
-                  Securing world from hackers`,
+                  I hack for money ...Bug Bounty...`,
                   image: '/images/sandor.png',
                   link: '#'
                   },
@@ -81,6 +81,13 @@ module.exports = [
                   message: `You know who I am.
                   Currently making scripts to hack you, be prepared`,
                   image: '/images/tony.jpeg',
+                  link: '#'
+                  },
+                  {
+                  title: 'pica_pica',
+                  message: `Hello this is detective Pikachu
+                  BEWARE! Ur poke balls could be hacked.`,
+                  image: '/images/pica_pica.jpeg',
                   link: '#'
                   }
 
