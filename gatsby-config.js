@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Soul Extract',
-        short_name: 'Soul Extract',
+        name: 'CybSec NITW',
+        short_name: 'CybSec',
         start_url: '/',
         background_color: '#000000',
         theme_color: '#000000',
@@ -29,7 +29,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-64916263-1'
+        
       }
     }
   ]
