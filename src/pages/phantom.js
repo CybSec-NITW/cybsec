@@ -34,10 +34,17 @@ class phantomCTF extends React.Component {
             <Fader>
               <img src={joshMullisFamilyURL} alt="phantomCTF" />
             </Fader>
-            <p><Fader>First time a hacking competition was conducted in National Institute of Technology, Warangal by Team CybSec with the name PhantomCTF on the intranet accessible to NITW students only.
+            <p><Fader>First time a hacking competition was conducted on 4th January, 2020 in National Institute of Technology, Warangal by Team CybSec with the name PhantomCTF on the intranet accessible to NITW students only.
 </Fader></p>
-              <p>Second part i.e, phantomCTF 2.O is coming soon. Just Stay Tuned 🙃🙂</p>
+              <p>Second part i.e, phantomCTF 2.O is scheduled on 1st March, 2020. Click the below link to register while connecting to NITW college WiFi/LAN.</p>
           
+              <Link href='https://172.20.41.245/' target='phantomCTF'>
+            <center>PhantomCTF 2.O</center>
+            </Link>
+              <p>If link is not opening, proceed to advanced settings and click to open anyway.</p>
+        <p>Use no ad-blockers and prefer browsers other than google chrome. </p>
+        <p>Make sure you are connected to NITW college LAN/WiFi, if still not working check on other college networks.</p>
+        <p>If still not working message us or call us, we will register you. </p>
           </article>
         </Secuence>
       </Main>
