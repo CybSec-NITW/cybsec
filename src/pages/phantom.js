@@ -45,6 +45,13 @@ class phantomCTF extends React.Component {
         <p>Don't use any ad-blockers and prefer browsers other than google chrome. </p>
         <p>Make sure you are connected to NITW college LAN/WiFi, if still not working check on other college networks.</p>
         <p>If still not working message us or call us, we will register you. </p>
+      <p><Link href='https://forms.gle/H5nhLLQduEdFpKSFA' target='phantomCTF'>
+            <center>Google Doc Link for Outsiders / who are not NITW students</center>
+            </Link></p>
+              <p>You need to be present at NITW to play this CTF</p>
+        <p>Accomodations should be managed by own </p>
+        <p>Bring your laptops and other stuffs to join this great event</p>
+        <p>Feel free to message us or call us. </p>
           </article>
         </Secuence>
       </Main>
