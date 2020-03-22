@@ -94,7 +94,7 @@ module.exports = [
                   title: 'Tesseract',
                   message: `I am waiting for you all this time
                   pCTF{U_F0Und_Sp4C3_Ston3}`,
-                  image: '/images/tesseract.jpeg',
+                  image: '/images/tesseract.jpg',
                   link: '#'
                   }
 

@@ -86,6 +86,71 @@ class Download extends React.Component {
             </Link>
             </Fader>
             </div>
+            
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://ghidra-sre.org/' target='ghidra'>
+            <img
+            alt='GHIDRA'
+            src='/images/ghidra.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://ghidra-sre.org/' target='ghidra'>
+            <center>GHIDRA</center>
+            </Link>
+            </Fader>
+            </div>
+            
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.wireshark.org/' target='wireshark'>
+            <img
+            alt='Wireshark'
+            src='/images/wireshark.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.wireshark.org/' target='wireshark'>
+            <center>Wireshark</center>
+            </Link>
+            </Fader>
+            </div>
+            
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://nmap.org/' target='Nmap'>
+            <img
+            alt='Nmap'
+            src='/images/nmap.jpeg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://nmap.org/' target='nmap'>
+            <center>Nmap</center>
+            </Link>
+            </Fader>
+            </div>
+            
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.kali.org/' target='kalilinux'>
+            <img
+            alt='Kali Linux'
+            src='/images/kalilinux.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.kali.org/' target='kalilinux'>
+            <center>Kali Linux </center>
+            </Link>
+            </Fader>
+            </div>
+            
           </div>
         </Secuence>
       </Main>

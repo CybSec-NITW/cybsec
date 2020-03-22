@@ -12,7 +12,7 @@ var plugins = [{
       options: {"plugins":[],"component":"/Users/aakashkumar/Documents/cybsec/src/layouts/Template/index.js"},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"trackingId":"UA-158065992-1"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

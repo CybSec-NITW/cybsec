@@ -6,7 +6,7 @@ module.exports = [{
       options: {"plugins":[],"component":"/Users/aakashkumar/Documents/cybsec/src/layouts/Template/index.js"},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"trackingId":"UA-158065992-1"},
     },{
       plugin: require('/Users/aakashkumar/Documents/cybsec/gatsby-browser.js'),
       options: {"plugins":[]},
