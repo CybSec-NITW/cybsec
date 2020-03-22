@@ -38,7 +38,7 @@ class phantomCTF extends React.Component {
 </Fader></p>
               <p>Second part i.e, phantomCTF 2.O is scheduled on 1st March, 2020. Click the below link to register while connecting to NITW college WiFi/LAN.</p>
           
-              <p><Link href='https://172.20.41.244/' target='phantomCTF'>
+              <p><Link href='https://172.20.41.229/' target='phantomCTF'>
             <center>Link is updated to PhantomCTF 2.O</center>
             </Link></p>
               <p>If link is not opening, proceed to advanced settings and click to open anyway.</p>
