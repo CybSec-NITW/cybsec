@@ -109,12 +109,28 @@ class Component extends React.PureComponent {
         <A href='https://www.facebook.com/CybSecNITW' title='Facebook' target='facebook'>
           <span className='mdi mdi-facebook' />
         </A>
-        <A href='https://github.com/CybSec-NITW' title='Github' target='github'>
-          <span className='mdi mdi-github-circle' />
-        </A>
-        <A href='https://www.instagram.com/cybsec_nitw' title='Instagram' target='instagram'>
+        
+        <A href='https://www.instagram.com/nitw_cybsec' title='Instagram' target='instagram'>
           <span className='mdi mdi-instagram' />
         </A>
+            <A href='https://twitter.com/CybsecNITW' title='Twitter' target='twitter'>
+            <span className='mdi mdi-twitter' />
+            </A>
+            <A href='https://github.com/CybSec-NITW' title='Github' target='github'>
+            <span className='mdi mdi-github-circle' />
+            </A>
+        <A href='https://www.youtube.com/channel/UCSnHJPTvVaw9HaBWOmOsUEg' title='YouTube' target='youtube'>
+            <span className='mdi mdi-youtube' />
+        </A>
+            <A href='https://t.me/CybSecNITW' title='Telegram' target='telegram'>
+            <span className='mdi mdi-telegram' />
+            </A>
+            <A href='https://discord.gg/nMRrTQU' title='Discord' target='discord'>
+            <span className='mdi mdi-discord' />
+            </A>
+            <A href='https://cybsecnitw.blogspot.com/' title='Blog' target='blog'>
+            <span className='mdi mdi-blogger' />
+            </A>
 
       </div>
     );

@@ -137,21 +137,89 @@ class Download extends React.Component {
             
             <div className={classes.album}>
             <Fader className={classes.albumCover}>
-            <Link href='https://www.kali.org/' target='kalilinux'>
+            <Link href='https://www.acunetix.com/' target='acunetix'>
             <img
-            alt='Kali Linux'
-            src='/images/kalilinux.jpg'
+            alt='Acunetix'
+            src='/images/acunetix.jpg'
             />
             </Link>
             </Fader>
             <Fader className={classes.albumCover}>
-            <Link href='https://www.kali.org/' target='kalilinux'>
-            <center>Kali Linux </center>
+            <Link href='https://www.acunetix.com/' target='acunetix'>
+            <center>Acunetix </center>
+            </Link>
+            </Fader>
+            </div>
+          </div>
+            
+            <h1><Text>Practice Here</Text></h1>
+            <div className={classes.albums}>
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.hackthebox.eu/' target='htb'>
+            <img
+            alt='HTB'
+            src='/images/htb.png'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.hackthebox.eu/' target='htb'>
+            <center>Hack The Box</center>
+            </Link>
+            </Fader>
+            </div>
+
+            
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.root-me.org/' target='root-me'>
+            <img
+            alt='root-me'
+            src='/images/rootme.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.root-me.org/' target='root-me'>
+            <center>Root Me</center>
             </Link>
             </Fader>
             </div>
             
-          </div>
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://webgoat.github.io/WebGoat/' target='webgoat'>
+            <img
+            alt='webgoat'
+            src='/images/webgoat.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://webgoat.github.io/WebGoat/' target='webgoat'>
+            <center>Webgoat</center>
+            </Link>
+            </Fader>
+            </div>
+
+            <div className={classes.album}>
+            <Fader className={classes.albumCover}>
+            <Link href='https://ctftime.org/' target='ctftime'>
+            <img
+            alt='ctftime'
+            src='/images/ctftime.jpg'
+            />
+            </Link>
+            </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://ctftime.org/' target='ctftime'>
+            <center>CTFtime</center>
+            </Link>
+            </Fader>
+            </div>
+
+            </div>
         </Secuence>
       </Main>
     );
