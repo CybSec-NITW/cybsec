@@ -119,7 +119,7 @@ class Component extends React.PureComponent {
             <A href='https://github.com/CybSec-NITW' title='Github' target='github'>
             <span className='mdi mdi-github-circle' />
             </A>
-        <A href='https://www.youtube.com/channel/UCSnHJPTvVaw9HaBWOmOsUEg' title='YouTube' target='youtube'>
+        <A href='https://www.youtube.com/CybSecNITW' title='YouTube' target='youtube'>
             <span className='mdi mdi-youtube' />
         </A>
             <A href='https://t.me/CybSecNITW' title='Telegram' target='telegram'>
