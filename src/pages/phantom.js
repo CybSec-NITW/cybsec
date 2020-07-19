@@ -51,9 +51,10 @@ class phantomCTF extends React.Component {
             
         <p>After the CTF, top 7 winning teams were given prizes according to scoreboard.</p>
       <p>Writeups and walkthroughs are published on our blogs and YouTube channel.</p>
-              <p>Stay tuned for phantomCTF 3.O</p>
+              <p>Phantom 3.0 is coming soon!! Pull up your gloves and get ready for Cybsec's biggest and best yet Capture The Flag.</p>
 
-            
+            <p>Sponsored by Google Cloud, this CTF will definitely excite you and teach you something new :)</p>
+
           </article>
         </Secuence>
       </Main>
