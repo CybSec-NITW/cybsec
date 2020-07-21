@@ -31,23 +31,15 @@ class phantomCTF extends React.Component {
             <header>
               <h1><Text>phantomCTF</Text></h1>
             </header>
-
-            <Fader>
-              <img src={joshMullisFamilyURL} alt="phantomCTF" />
-            
-            <p>First time a hacking competition was conducted on 4th January, 2020 in National Institute of Technology, Warangal by Team CybSec with the name PhantomCTF on the intranet accessible to NITW students only.
-</p></Fader>
-              <p>Second part i.e, phantomCTF 2.O was also conducted on 1st March, 2020. A huge participation was seen in the college.</p>
           
-            <Fader>
-            <img src={venue} alt="phantomCTF" />
-            </Fader>
-            
-     
-              <p>It was a Jeopardy Style CTF having various types of challenges like web exploitation, forensics, cryptography, binary exploitation, reverse engineering and some miscellaneous.</p>
+              <p>It is a Jeopardy Style CTF having various types of challenges like web exploitation, forensics, cryptography, binary exploitation, reverse engineering and some miscellaneous.</p>
         
               <p>Phantom 3.0 is coming soon!! Pull up your gloves and get ready for Cybsec's biggest and best yet Capture The Flag.</p>
 
+              <p>For NITW students registration Link - <Link href='http://registration.cybsec.in/'>registration.cybsec.in</Link></p>
+
+              <p>For Non-NITW participants - Link will be provided soon.</p>
+              <br></br>
           <header>
               <h1><Text>Sponsors</Text></h1>
             </header>
@@ -55,7 +47,7 @@ class phantomCTF extends React.Component {
             <Fader>
             <img src={gspons} alt="Google Cloud" />
             </Fader>
-            <p>Infrastructure Sponsored by Google Cloud</p>
+            <center><p>Infrastructure Sponsored by <Link href='https://g.co/cloud/'>Google Cloud</Link></p></center>
 
           </article>
         </Secuence>
