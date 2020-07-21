@@ -10,6 +10,7 @@ import { Secuence } from '../components/Secuence';
 import joshMullisFamilyURL from '../images/phantomCTF.jpg';
 import venue from '../images/venue.jpg';
 import result from '../images/result.jpg';
+import gspons from '../images/gcloud.jpg';
 
 const styles = theme => ({
   root: {}
@@ -50,6 +51,10 @@ class phantomCTF extends React.Component {
           <header>
               <h1><Text>Sponsors</Text></h1>
             </header>
+
+            <Fader>
+            <img src={gspons} alt="Google Cloud" />
+            </Fader>
             <p>Infrastructure Sponsored by Google Cloud</p>
 
           </article>
