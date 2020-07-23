@@ -35,11 +35,14 @@ class phantomCTF extends React.Component {
               <p>It is a Jeopardy Style CTF having various types of challenges like web exploitation, forensics, cryptography, binary exploitation, reverse engineering and some miscellaneous.</p>
         
               <p>Phantom 3.0 is coming soon!! Pull up your gloves and get ready for Cybsec's biggest and best yet Capture The Flag.</p>
+              <p>The D-Day(s) - 15th Aug 6:30pm to 16th Aug 2:30pm <br>
+                 Venue - The comforts of your home <br>
+                 Necessities - A brain and a laptop <br>
 
               <p>For NITW students registration Link - <Link href='http://registration.cybsec.in/'>registration.cybsec.in</Link></p>
 
               <p>For Non-NITW participants - Link will be provided soon.</p>
-              <br></br>
+              <br>
           <header>
               <h1><Text>Sponsors</Text></h1>
             </header>
