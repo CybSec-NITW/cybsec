@@ -40,9 +40,9 @@ class phantomCTF extends React.Component {
               Venue - The comforts of your home <br></br>
               Necessities - A brain and a laptop</p>
 
-              <p>For NITW students registration Link - <Link href='http://registration.cybsec.in/'>registration.cybsec.in</Link></p>
+              <p>For NITW students registration Link to join Team - <Link href='http://registration.cybsec.in/'>registration.cybsec.in</Link></p>
 
-              <p>For Non-NITW participants - Link will be provided soon.</p>
+              <p>For Phantom CTF participants - <Link href='https://ctf.cybsec.in/'>ctf.cybsec.in</Link></p>
               <br></br><br></br><br></br>
           <header>
               <h1><Text>Sponsors</Text></h1>
