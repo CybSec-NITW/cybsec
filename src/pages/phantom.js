@@ -40,8 +40,7 @@ class phantomCTF extends React.Component {
               <p>For NITW students registration Link to join CybSec Team - <Link href='http://registration.cybsec.in/'>registration.cybsec.in (closed)</Link></p>
               <p>(Selections will depend on performance in Phantom 3.0 and an interview round to be conducted afterwards)</p>
               <br></br>
-              /*<p>For Phantom CTF participants - <Link href='https://ctf.cybsec.in/'>ctf.cybsec.in</Link></p>
-              <p>Register yourself and your team with max team size of 4 members. </p>*/
+              
               <br></br><br></br><br></br>
           <header>
               <h1><Text>Sponsors</Text></h1>
