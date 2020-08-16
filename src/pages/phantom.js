@@ -34,16 +34,13 @@ class phantomCTF extends React.Component {
           
               <p>It is a Jeopardy Style CTF having various types of challenges like web exploitation, forensics, cryptography, binary exploitation, reverse engineering and some miscellaneous.</p>
         
-              <p>Phantom 3.0 is coming soon!! Pull up your gloves and get ready for Cybsec's biggest and best yet Capture The Flag.</p>
-      
-              <p>The D-Day(s) - 15th Aug 6:30pm to 16th Aug 2:30pm <br></br>
-              Venue - The comforts of your home <br></br>
-              Necessities - A brain and a laptop</p>
+              <p>Due to technical issues, the CTF has been postponed. We are extremely sorry for the inconvenience caused.</p>
+              <p>We promise to conduct this CTF very soon, with better challenges and better management. Our sincere apologies once again.</p>
 
-              <p>For NITW students registration Link to join CybSec Team - <Link href='http://registration.cybsec.in/'>registration.cybsec.in</Link></p>
+              <p>For NITW students registration Link to join CybSec Team - <Link href='http://registration.cybsec.in/'>registration.cybsec.in (closed)</Link></p>
               <p>(Selections will depend on performance in Phantom 3.0 and an interview round to be conducted afterwards)</p>
               <br></br>
-              <p>For Phantom CTF participants - <Link href='https://ctf.cybsec.in/'>ctf.cybsec.in</Link></p>
+              //<p>For Phantom CTF participants - <Link href='https://ctf.cybsec.in/'>ctf.cybsec.in</Link></p>
               <p>Register yourself and your team with max team size of 4 members. </p>
               <br></br><br></br><br></br>
           <header>
