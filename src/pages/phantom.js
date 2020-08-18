@@ -41,7 +41,7 @@ class phantomCTF extends React.Component {
               <p>(Selections will depend on performance in Phantom 3.0 and an interview round to be conducted afterwards)</p>
               <br></br>
               <p>For participating in CTF, register here -  http://ctfx.cybsec.in</p>
-              <p>D-Day(s) - 21st Aug, 3.00pm to 22nd Aug, 11.00am       
+              <p>D-Day(s) - 21st Aug, 3.00pm to 22nd Aug, 11.00am</p>      
 
               <br></br><br></br><br></br>
           <header>
