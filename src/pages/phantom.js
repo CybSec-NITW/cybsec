@@ -11,6 +11,8 @@ import joshMullisFamilyURL from '../images/phantomCTF.jpg';
 import venue from '../images/venue.jpg';
 import result from '../images/result.jpg';
 import gspons from '../images/gcloud.jpg';
+import graph from '../images/Result.jpeg';
+import score frome '../images/Scoreboard.jpeg';
 
 const styles = theme => ({
   root: {}
@@ -40,9 +42,12 @@ class phantomCTF extends React.Component {
               <p> Here's how the leaderboard looked by the end of it... </p>
              
               <Fader>
-              <img src={/images/Graph.jpeg}>
+              <img src={graph}>
               </Fader>
       
+              <Fader>
+              <img src={score}>
+              </Fader>      
       
               <br></br><br></br><br></br>
       
