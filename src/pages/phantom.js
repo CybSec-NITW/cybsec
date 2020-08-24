@@ -42,11 +42,11 @@ class phantomCTF extends React.Component {
               <p> Here's how the leaderboard looked by the end of it... </p>
              
               <Fader>
-              <img src={graph}>
+              <img src={graph} alt="Graph" />
               </Fader>
       
               <Fader>
-              <img src={score}>
+              <img src={score} alt="Scoreboard" />
               </Fader>      
       
               <br></br><br></br><br></br>
