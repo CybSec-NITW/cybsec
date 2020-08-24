@@ -11,7 +11,7 @@ import joshMullisFamilyURL from '../images/phantomCTF.jpg';
 import venue from '../images/venue.jpg';
 import result from '../images/result.jpg';
 import gspons from '../images/gcloud.jpg';
-import graph from '../images/Result.jpeg';
+import graph from '../images/result.jpg';
 import score from '../images/Scoreboard.jpeg';
 
 const styles = theme => ({
