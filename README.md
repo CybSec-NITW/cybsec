@@ -58,6 +58,6 @@ To know more, see package.json file -> scripts
 
 \ ゜o゜)ノ
 
-- Groot
+-- Groot
 
 
