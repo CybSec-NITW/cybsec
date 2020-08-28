@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="./src/images/favicon.png" alt="CybSec NITW" width="300" />
 
-# [CybSec NITW](https://cybsec.in) the new new new version!
+# [CybSec NITW](https://cybsec.in)
 
-Built with React and hosted on Netlify. (Note: this site is _not_ compatible with GitHub Pages.)
+Built with React & ❤️ and hosted on Netlify. (Note: this site is _not_ compatible with GitHub Pages.)
 
 ## Content Structure
 
