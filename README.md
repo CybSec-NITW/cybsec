@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./src/images/favicon.png" alt="CybSec NITW" width="150" />
+<img align="right" alt="GIF" src="./src/images/favicon.png" alt="CybSec NITW" width="300" />
 
 # [CybSec NITW](https://cybsec.in) the new new new version!
 
