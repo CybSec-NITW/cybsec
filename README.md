@@ -54,7 +54,7 @@ hacker@linux : npm run build
 hacker@linux : npm run server
 ````
 
-To know more, see packege.json file -> scripts
+To know more, see package.json file -> scripts
 
 \ ゜o゜)ノ
 
