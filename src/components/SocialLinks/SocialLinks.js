@@ -125,7 +125,7 @@ class Component extends React.PureComponent {
             <A href='https://t.me/CybSecNITW' title='Telegram' target='telegram'>
             <span className='mdi mdi-telegram' />
             </A>
-            <A href='https://discord.gg/DTux5kS' title='Discord' target='discord'>
+            <A href='https://invite.gg/cybsecnitw' title='Discord' target='discord'>
             <span className='mdi mdi-discord' />
             </A>
             <A href='https://cybsecnitw.blogspot.com/' title='Blog' target='blog'>
