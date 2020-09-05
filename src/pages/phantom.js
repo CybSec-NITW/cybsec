@@ -35,7 +35,7 @@ class phantomCTF extends React.Component {
             </header>
           
               <p> Just like all good things... Phantom CTF 3.0 has come to an end. We saw an overwhelming response of over 500 participants.</p>
-              <p> We hope you enjoyed and learned as much as we did. And if you didnt participate this time... well, see you next time!</p> 
+              <p> We hope you enjoyed and learned as much as we did. And if you didnt participate this time... well, see you next time!!</p> 
       
               <br></br><br></br><br></br>
                
