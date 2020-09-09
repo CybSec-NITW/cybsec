@@ -23,7 +23,7 @@ module.exports = [
         {
             title:'Phantom King',
             message:'できないことはできる！バグを食べるのが大好きです。あなたは私が何を計画しているのか分かりません！',
-            image:'/images/Phantom King.jpg',
+            image:'/images/PhantomKing.jpg',
             link:'#'
         },
         {
@@ -47,7 +47,7 @@ module.exports = [
         {
             title:'Dr. Sheldon',
             message:"Ohh you all must be knowing me. If not, then go away you inferior brains.\nBTW, I'm batman!!!! Bazinga!!!",
-            image:'/images/Dr. Sheldon.jpg',
+            image:'/images/DrSheldon.jpg',
             link:'#'
         },
         {
@@ -89,13 +89,13 @@ module.exports = [
         {
             title:'Tommy shelby',
             message:'Intelligence is a very valuable thing, innit, my friend? And usually it comes far too   late.',
-            image:'/images/Tommy shelby.jpg',
+            image:'/images/TommyShelby.jpg',
             link:'#'
         },
         {
             title:'DARK DRAGON',
             message:'INFOrmation is Wealth',
-            image:'/images/DARK DRAGON.jpeg',
+            image:'/images/DARKDRAGON.jpeg',
             link:'#'
         },
         {
