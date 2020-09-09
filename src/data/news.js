@@ -4,7 +4,7 @@
 module.exports = [
         {
             title: '$root',
-            message:'I am Groot!!!🙃🙂\nHacker | Coder | Web Developer | Memer | Foodie | Iron Man Fan | Night-Owl | TIFLS | Jack of All Trades\nWe break security not hearts',
+            message:'I am Groot!!!🙃🙂\nHacker | Coder | Web Developer | Programmer | Memer | Foodie | Omniscient HackTheBox | Iron Man Fan | Night-Owl | TIFLS | Interested in Astrophysycs | Jack of All Trades | South Delhi | O -ve\nWe break security not hearts',
             image:'/images/groot.jpg',
             link:'#'
         },
