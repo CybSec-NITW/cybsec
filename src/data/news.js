@@ -158,6 +158,14 @@ module.exports = [
             message: ‘Sugar rush proximity detected, how would you like to proceed?’,
             image: ‘/images/Entwicklerish.png’,
             link: ‘#’
+        },
+        {
+            title: ‘Anonymous’,
+            message: ‘Hello, I'm Anonymous
+            I like to lay low
+            Privacy is a myth’,
+            image: ‘/images/Anonymous.jpg’,
+            link: ‘#’
         }
 
   
