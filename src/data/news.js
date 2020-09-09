@@ -145,9 +145,19 @@ module.exports = [
             message:"Hello, I'm Anonymous\nI like to lay low\nPrivacy is a myth",
             image:'/images/Anonymous.jpg',
             link:'#'
+        },
+        {
+            title: '5and0r D3zt3z',
+            message: `This is Sandor
+            I hack for money ...Bug Bounty...`,
+            image: '/images/sandor.png',
+            link: '#'
+        },
+        {
+            title: 'tonyq16',
+            message: `You know who I am.
+            Currently making scripts to hack you, be prepared`,
+            image: '/images/tony.jpeg',
+            link: '#'
         }
-
-  
-  
-
 ];
