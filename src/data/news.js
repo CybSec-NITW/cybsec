@@ -6,13 +6,13 @@ module.exports = [
             title: '$root',
             message:'I am Groot!!!🙃🙂\nHacker | Coder | Web Developer | Programmer | Memer | Foodie | Omniscient HackTheBox | Iron Man Fan | Night-Owl | TIFLS | Interested in Astrophysics | Jack of All Trades | South Delhi | O -ve\nWe break security not hearts',
             image:'/images/groot.jpg',
-            link:'#'
+            link:'https://www.aakash-kumar.me'
         },
         {
             title:'Sachiko',
             message:'Hii this is Sachiko\nDont be fooled by that face, she will hack you',
             image:'/images/Sachiko.jpg',
-            link:'#'
+            link:'https://argenestel.github.io'
         },
         {
             title:'Sp1ynt3r',
@@ -90,7 +90,7 @@ module.exports = [
             title:'Tommy shelby',
             message:'Intelligence is a very valuable thing, innit, my friend? And usually it comes far too   late.',
             image:'/images/TommyShelby.jpg',
-            link:'#'
+            link:'https://www.linkedin.com/in/nagendra-vinay-bab6221a6'
         },
         {
             title:'DARK DRAGON',
@@ -102,7 +102,7 @@ module.exports = [
             title:'Purplert',
             message:'Please stand by...\nOr get ready to become victim of social engineering',
             image:'/images/scarlett.jpeg',
-            link:'#'
+            link:'https://www.rashmika.me'
         },
         {
             title:'Lucy',
@@ -114,7 +114,7 @@ module.exports = [
             title:'LakuMigAn0',
             message:'Hey there! 👋\nAspiring Hacker & Coder | Music Love\nNever tell anyone everything you know... ;)',
             image:'/images/LakuMigAn0.jpeg',
-            link:'#'
+            link:'https://github.com/Lakshaya18'
         },
         {
             title:'TrivalenT',
