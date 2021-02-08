@@ -7,12 +7,8 @@ import { Link } from '../components/Link';
 import { Text } from '../components/Text';
 import { Fader } from '../components/Fader';
 import { Secuence } from '../components/Secuence';
-import joshMullisFamilyURL from '../images/phantomCTF.jpg';
-import venue from '../images/venue.jpg';
-import result from '../images/result.jpg';
 import gspons from '../images/gcloud.jpg';
-import graph from '../images/Graph.jpeg';
-import score from '../images/Scoreboard.jpeg';
+import phantom4 from '../images/phantom4.jpeg'
 
 const styles = theme => ({
   root: {}
@@ -34,20 +30,17 @@ class phantomCTF extends React.Component {
               <h1><Text>phantomCTF</Text></h1>
             </header>
           
-              <p> Just like all good things... Phantom CTF 3.0 has come to an end. We saw an overwhelming response of over 500 participants.</p>
-              <p> We hope you enjoyed and learned as much as we did. And if you didnt participate this time... well, see you next time!!</p> 
-      
-              <br></br><br></br><br></br>
+              <p>After successfully conducting 3 CTFs , we are up with PHANTOM CTF 4.0 ( Beginner's Edition ).</p> 
                
-              <p> Here's how the leaderboard looked by the end of it... </p>
+              <p> This PHANTOM CTF is specifically focussed on "first-timers" or "beginners" to give you the basic understanding of "playing CTFs", and help you all to take "your first step in field of Cybersecurity and Hacking".</p>
+              <p> Just grab up your team and Register NOW at <a href="ctf.cybsec.in">ctf.cybsec.in </a></p>
+              <p>|| NOTE || <br></br> 1. MAXIMUM MEMBERS PER TEAM = 3<br></br>
+              2. INDIVIDUAL registrations ARE ALSO ALLOWED. Each individual registration will be considered as a SEPARATE TEAM!</p>
              
               <Fader>
-              <img src={graph} alt="Graph" />
+              <img src={phantom4} alt="PhantomCTF4" />
               </Fader>
-      
-              <Fader>
-              <img src={score} alt="Scoreboard" />
-              </Fader>      
+  
       
               <br></br><br></br><br></br>
       
