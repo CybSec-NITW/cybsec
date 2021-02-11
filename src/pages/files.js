@@ -58,6 +58,21 @@ class Download extends React.Component {
           <div className={classes.albums}>
             <div className={classes.album}>
               <Fader className={classes.albumCover}>
+                <Link href='https://www.cynuxsecurity.org/' target='cynuxos'>
+                  <img
+                    alt='Cynux os'
+                    src='/images/cynux.png'
+                  />
+                </Link>
+              </Fader>
+            <Fader className={classes.albumCover}>
+            <Link href='https://www.cynuxsecurity.org/' target='cynuxos'>
+            <center>Cynux OS</center>
+            </Link>
+            </Fader>
+            </div>
+            <div className={classes.album}>
+              <Fader className={classes.albumCover}>
                 <Link href='https://www.kali.org/' target='kalilinux'>
                   <img
                     alt='Kali Linux'
