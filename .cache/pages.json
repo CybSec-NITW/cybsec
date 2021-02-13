@@ -30,6 +30,11 @@
         "path": "/phantom/"
     },
     {
+        "componentChunkName": "component---src-pages-projects-js",
+        "jsonName": "projects-9e9",
+        "path": "/projects/"
+    },
+    {
         "componentChunkName": "component---src-pages-team-js",
         "jsonName": "team-a07",
         "path": "/team/"

@@ -7,6 +7,7 @@ exports.components = {
   "component---src-pages-files-js": () => import("C:\\Users\\hp\\Desktop\\cybsec\\src\\pages\\files.js" /* webpackChunkName: "component---src-pages-files-js" */),
   "component---src-pages-index-js": () => import("C:\\Users\\hp\\Desktop\\cybsec\\src\\pages\\index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-phantom-js": () => import("C:\\Users\\hp\\Desktop\\cybsec\\src\\pages\\phantom.js" /* webpackChunkName: "component---src-pages-phantom-js" */),
+  "component---src-pages-projects-js": () => import("C:\\Users\\hp\\Desktop\\cybsec\\src\\pages\\projects.js" /* webpackChunkName: "component---src-pages-projects-js" */),
   "component---src-pages-team-js": () => import("C:\\Users\\hp\\Desktop\\cybsec\\src\\pages\\team.js" /* webpackChunkName: "component---src-pages-team-js" */)
 }
 

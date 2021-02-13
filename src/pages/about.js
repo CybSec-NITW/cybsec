@@ -40,14 +40,18 @@ class About extends React.Component {
             
             <p><Text style={{ fontWeight: 'bold' }}>What We Do?</Text></p>
             <Fader>
-            <img src={provsec} alt="Our work" />
-            
+              <img src={provsec} alt="Our work" />
+              
 
-            <p><Text>Meetings :
-            We have weekly meetups where we have information security-related discussions and participate in CTFs. Everyone is invited to our meetings. </Text></p>
-            <p><Text>Capture The Flag :
-            We actively participate in CTFs. These are security competitions which require practical knowledge of topics like binary exploitation, reverse engineering, cryptography, web security, forensics, steganography, etc. We also organise our own Capture The Flag competitions PhantomCTF.</Text></p></Fader>
-            
+              <p><Text>Meetings :
+              We have weekly meetups where we have information security-related discussions and participate in CTFs. Everyone is invited to our meetings. </Text></p>
+              <p><Text>Capture The Flag :
+              We actively participate in CTFs. These are security competitions which require practical knowledge of topics like binary exploitation, reverse engineering, cryptography, web security, forensics, steganography, etc. We also organise our own Capture The Flag competitions PhantomCTF.</Text></p>
+            </Fader>
+            <p><Text style={{ fontWeight: 'bold' }}>Our Teams And Their Roles</Text></p>
+            <Fader>
+            <iframe src="https://prezi.com/embed/flqwr3pjs9ej/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="405" width="720"></iframe>
+            </Fader>    
             <p><Text style={{ fontWeight: 'bold' }}>How To Join?</Text></p>
             <Fader>
             <img src={opengroup} alt="Join Us" />
