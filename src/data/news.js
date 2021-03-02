@@ -159,5 +159,11 @@ module.exports = [
             Currently making scripts to hack you, be prepared`,
             image: '/images/tony.jpeg',
             link: '#'
+        },
+        {
+                title: 'Omen',
+                message: 'I am the beginning. I am the end.',
+                image: '/images/omen.png',
+                link: '#'
         }
 ];
