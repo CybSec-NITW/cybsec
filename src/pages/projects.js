@@ -2,9 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import { Post } from '../components/Post';
+
 import projects from '../data/projects'
+
 import { withStyles } from '../tools/withStyles';
 import { Main } from '../components/Main';
+import { Text } from '../components/Text';
 import { Secuence } from '../components/Secuence';
 
 const styles = theme => ({
@@ -53,7 +56,10 @@ class Download extends React.Component {
     return (
       <Main className={classes.root}>
         <Secuence stagger>
-        {projects.map((post, index) => (
+        <header>
+            <h1><Text>Projects And Accomplishments</Text></h1>
+          </header>
+          {projects.map((post, index) => (
             <Post
               key={index}
               audio={{ silent: index > 4 }}
