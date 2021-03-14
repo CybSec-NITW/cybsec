@@ -11,28 +11,28 @@ module.exports = [
        {
             title:'Megham Cloud',
             message:'We are working on building a super computer that will be able to host developers, apps, CTF platforms, game engines and virtual machines within NITW',
-            image:
+            image:''
             
         },
 
        {
             title:'LAN Applications',
             message:'SSH messenger (for secure and encrypted texting) and LAN radio were developed for use within the LAN network',
-            image:
+            image:''
             
         },
 
        {
             title:'Hardware Projects',
             message:'Several hardware projects were developed using BadUSB and NodeMCU',
-            image:
+            image:''
             
         },
 
        {
             title:'Honeypot Server',
             message:'Honeypot Server is a cyberattack protection system developed specially for NIT, Warangal.',
-            image:
+            image:''
             
         },
 
