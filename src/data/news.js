@@ -39,6 +39,12 @@ module.exports = [
             link:'#'
         },
         {
+            title:'Acid',
+            message:'H4CK TO EXPR355, NOT TO IMPRESS',
+            image:'/images/acid.jpeg',
+            link:'#'
+        },
+        {
             title:'a.chick',
             message:"I don't chicken out",
             image:'/images/ashiqa.jpeg',
@@ -120,7 +126,7 @@ module.exports = [
             title:'TrivalenT',
             message:'Wubba Lubba Dub Dub 🤤\nMixing potions to hack u wid my chemistry 🧙‍♂‍',
             image:'/images/TrivalenT.jfif',
-            link:'#'
+            link:'shubhank.netlify.app'
         },
         {
             title:'Neo',
