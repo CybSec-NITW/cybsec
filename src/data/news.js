@@ -40,15 +40,15 @@ module.exports = [
         },
         {
             title:'Acid',
-            message:'H4CK TO EXPR355, NOT TO IMPRESS',
-            image:'/images/acid.jpeg',
-            link:'#'
+            message:'Not basic...\nPlaying for keeps ',
+            image:'/images/acid.jpg',
+            link:'yash.cybsec.in'
         },
         {
             title:'a.chick',
             message:"I don't chicken out",
             image:'/images/ashiqa.jpeg',
-            link:'#'
+            link:'http://www.ashiqarahman.me'
         },
         {
             title:'Dr. Sheldon',
