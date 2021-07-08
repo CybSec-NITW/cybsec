@@ -78,7 +78,7 @@ module.exports = [
             title:'Pika',
             message:'Hello this is detective Pikachu\nBEWARE! Ur poke balls could be hacked.',
             image:'/images/pica_pica.jpeg',
-            link:'https://harika14901.github.io/'
+            link:'https://harika140901.github.io/'
         },
         {
             title:'Dคяк☬Kห¡gнт',
