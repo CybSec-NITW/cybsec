@@ -40,15 +40,15 @@ module.exports = [
         },
         {
             title:'Acid',
-            message:'H4CK TO EXPR355, NOT TO IMPRESS',
-            image:'/images/acid.jpeg',
-            link:'#'
+            message:'Not basic...\nPlaying for keeps ',
+            image:'/images/acid.jpg',
+            link:'https://yash.cybsec.in'
         },
         {
             title:'a.chick',
             message:"I don't chicken out",
             image:'/images/ashiqa.jpeg',
-            link:'#'
+            link:'http://www.ashiqarahman.me'
         },
         {
             title:'Dr. Sheldon',
@@ -78,7 +78,7 @@ module.exports = [
             title:'Pika',
             message:'Hello this is detective Pikachu\nBEWARE! Ur poke balls could be hacked.',
             image:'/images/pica_pica.jpeg',
-            link:'#'
+            link:'https://harika14901.github.io/'
         },
         {
             title:'Dคяк☬Kห¡gнт',
@@ -126,7 +126,7 @@ module.exports = [
             title:'TrivalenT',
             message:'Wubba Lubba Dub Dub 🤤\nMixing potions to hack u wid my chemistry 🧙‍♂‍',
             image:'/images/TrivalenT.jfif',
-            link:'shubhank.netlify.app'
+            link:'https://shubhank.netlify.app'
         },
         {
             title:'Neo',
