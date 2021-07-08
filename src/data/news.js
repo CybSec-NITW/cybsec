@@ -63,8 +63,8 @@ module.exports = [
             link:'#'
         },
         {
-           title:'F1R3H3ART',
-           message:'Fae in human disguise.. all cookies accepted😋..\nASSIMILATION:SUCCESS\nSUBMIT REPORTS:SUBMITTED HUMAN BEHAVIOR 101 TO OVERLORD ZUCC\nHACK ALL SYSTEMS:ONGOING\nWORLD DOMINATION:PENDING',
+           title:'D1SQU1TA',
+           message:'I will find you, and I will OSINT you',
            image:'/images/F1R3H3ART.jpg',
            link:'#'
         },
