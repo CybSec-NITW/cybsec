@@ -20,7 +20,7 @@ module.exports = [
     title: "Sp1ynt3r",
     message: "Mind Your own HACKING",
     image: "/images/Sp1ynt3r.jpeg",
-    link: "#",
+    link: "https://anish-damineni.netlify.com",
   },
   {
     title: "Phantom King",
@@ -97,7 +97,7 @@ module.exports = [
     title: "m3g4n",
     message: "I'm Megan.\nHacking to learn",
     image: "/images/megan.jpeg",
-    link: "#",
+    link: "http://m3g4n127001.github.io/MeghanaPasikanti/",
   },
   {
     title: "Tommy shelby",
@@ -123,7 +123,7 @@ module.exports = [
     title: "Lucy",
     message: "Your Ignorance is our power",
     image: "/images/lucy.jpeg",
-    link: "#",
+    link: "https://www.linkedin.com/in/spandana-ratnala-a34b021b7",
   },
   {
     title: "LakuMigAn0",
@@ -194,13 +194,13 @@ module.exports = [
     title: "No one",
     message: "Powerhouse @mitochondria",
     image: "/images/No_one.jpeg",
-    link: "#",
+    link: "https://www.linkedin.com/in/kratika-dhote-391123198",
   },
   {
     title: "Phenix",
     message: "PeaceÔ£î",
     image: "/images/Phenix.jpeg",
-    link: "#",
+    link: "https://www.linkedin.com/in/apurba-chakma-3032681a1",
   },
   {
     title: "Cipher",
@@ -231,7 +231,7 @@ module.exports = [
     message:
       "Early bird gets the worm,\nEarly fox gets the bird,\nThen comes the . . . . \nDecode my name please\xadƒÿë",
     image: "/images/k1Ts8n.jpg",
-    link: "#",
+    link: "https://www.instagram.com/invites/contact/?i=1jza0m1x2xy1n&utm_content=kn52nss",
   },
   {
     title: "Cyber Penguin",
@@ -239,12 +239,17 @@ module.exports = [
     image: "/images/Cyber_Penguin.jpeg",
     link: "#",
   },
-  { title: "LSD", message: "PeaceÔ£î", image: "/images/LSD.jpeg", link: "#" },
+  {
+    title: "LSD",
+    message: "PeaceÔ£î",
+    image: "/images/LSD.jpeg",
+    link: "https://www.linkedin.com/in/apurba-chakma-3032681a1",
+  },
   {
     title: "neohat or neo",
     message: "l0v3 to h4ck!",
     image: "/images/neohat_or_neo.jpeg",
-    link: "#",
+    link: "https://www.linkedin.com/in/siddharth-soma-45533a1a7/",
   },
   {
     title: "banksy",
@@ -262,7 +267,7 @@ module.exports = [
     title: "Sphinx_x",
     message: "Tech-savvytastic!",
     image: "/images/Sphinx_x.jpg",
-    link: "#",
+    link: "https://www.linkedin.com/in/monisha-kant-107861209",
   },
   {
     title: "godofmischief",
@@ -293,7 +298,7 @@ module.exports = [
     title: "no_name",
     message: "fastest hand in the west; coming to score that big bounty",
     image: "/images/no_name.jpg",
-    link: "#",
+    link: "https://www.linkedin.com/in/pratham-bande",
   },
   {
     title: "Lucy",
@@ -313,7 +318,7 @@ module.exports = [
     message:
       "Hacker \\| Coder \\| Web Developer \\| CyberChef\nI will find you, and I will OSINT you...",
     image: "/images/Disquita.jpg",
-    link: "#",
+    link: "https://github.com/Disquita",
   },
   {
     title: "0R4CL3_H3R3",
@@ -363,7 +368,7 @@ module.exports = [
     title: "Cybsquader",
     message: "If you want to change your life change your mind",
     image: "/images/Cybsquader.jpeg",
-    link: "#",
+    link: "https://www.linkedin.com/in/bhanu-naik-05bb1a1ab",
   },
   {
     title: "m3g4n",
@@ -388,7 +393,7 @@ module.exports = [
     title: "L3x 1uth0r",
     message: "Hacker \\| Developer \\| Researcher",
     image: "/images/L3x_1uth0r.jpg",
-    link: "#",
+    link: "https://gnaneshwar.in/",
   },
   {
     title: "Acid",
