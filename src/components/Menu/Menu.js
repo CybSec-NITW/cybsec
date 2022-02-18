@@ -222,7 +222,7 @@ class Component extends React.PureComponent {
               animation={{ animate: animateText }}
               audio={{ silent: !animateText }}
             >
-              phantom
+              EVENTS
             </Text>
           </Link>
 <b className={cx(classes.item, classes.divisor)}>|</b>

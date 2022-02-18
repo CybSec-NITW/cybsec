@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('C:/Users/hp/Desktop/cybsec/node_modules/gatsby-plugin-jss/gatsby-ssr'),
+      plugin: require('/workspace/cybsec/node_modules/gatsby-plugin-jss/gatsby-ssr'),
       options: {"plugins":[],"theme":{"typography":{"primary":"Orbitron, sans-serif","secondary":"Electrolize, sans-serif"},"color":{"accent":0.2,"alpha":0.5,"primary":{"dark":"#bbbbbb","main":"#eeeeee","light":"#ffffff"},"secondary":{"dark":"#19a0b3","main":"#27e1fa","light":"#7eecfb"},"tertiary":{"dark":"#b5a005","main":"#fae127","light":"#feec67"},"heading":{"main":"#eeeeee"},"text":{"main":"#cccccc"},"link":{"dark":"#55cbd0","main":"#87f7fc","light":"#aff3f6"},"background":{"dark":"#000000","main":"#02161a","light":"#043b3b"}},"animation":{"time":250,"stagger":50}}},
     },{
-      plugin: require('C:/Users/hp/Desktop/cybsec/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/workspace/cybsec/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/hp/Desktop/cybsec/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/workspace/cybsec/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"CybSec NITW","short_name":"CybSec","start_url":"/","background_color":"#000000","theme_color":"#000000","display":"standalone","orientation":"portrait","icon":"src/images/favicon.png"},
     },{
-      plugin: require('C:/Users/hp/Desktop/cybsec/node_modules/gatsby-plugin-layout/gatsby-ssr'),
-      options: {"plugins":[],"component":"C:\\Users\\hp\\Desktop\\cybsec\\src\\layouts\\Template\\index.js"},
+      plugin: require('/workspace/cybsec/node_modules/gatsby-plugin-layout/gatsby-ssr'),
+      options: {"plugins":[],"component":"/workspace/cybsec/src/layouts/Template/index.js"},
     },{
-      plugin: require('C:/Users/hp/Desktop/cybsec/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/workspace/cybsec/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-158065992-1"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

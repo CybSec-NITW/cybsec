@@ -8,7 +8,8 @@ import { Text } from '../components/Text';
 import { Fader } from '../components/Fader';
 import { Secuence } from '../components/Secuence';
 import gspons from '../images/gcloud.jpg';
-import phantom4 from '../images/sectf.mp4'
+import ig from '../images/ig.png'
+import phantom4 from '../images/sectf.mp4';
 
 const styles = theme => ({
   root: {}
@@ -27,18 +28,30 @@ class phantomCTF extends React.Component {
         <Secuence stagger>
           <article>
             <header>
-              <h1><Text>phantomCTF</Text></h1>
+              <h1><Text>SECTF</Text></h1>
             </header>
+            <Fader>
+            <img src={ig} alt="IG" />
+            </Fader>
           
-              <p>After successfully conducting 3 CTFs , we are up with PHANTOM CTF 4.0 ( Beginner's Edition ).</p> 
+              <p>"Hey bro?"
+              "Yea?"
+              "Done with the assignment?"
+              "No bro, still working on it.. Exams are coming up and we are stuck with these annoying assignments." 😭
+              "AAAh!!" That's it! 
+              L37s pu7 4n 3nd 70 7h15 m153ry!"
+              "What do u mean bro?"😮
+              "m150n_7@k3_d0wn_w3bc3ll"😎</p> 
                
-              <p> This PHANTOM CTF is specifically focussed on "first-timers" or "beginners" to give you the basic understanding of "playing CTFs", and help you all to take "your first step in field of Cybersecurity and Hacking".</p>
-              <p> Just grab up your team and Register NOW at <a href="ctf.cybsec.in">ctf.cybsec.in </a></p>
-              <p>|| NOTE || <br></br> 1. MAXIMUM MEMBERS PER TEAM = 3<br></br>
-              2. INDIVIDUAL registrations ARE ALSO ALLOWED. Each individual registration will be considered as a SEPARATE TEAM!</p>
-             
+              <p>If you've cracked the code, then here's a chance to experience that adrenaline rush in our upcoming Social Engineering based CTF event - "Attack on Webcell" brought to you by CYBSEC NITW🔥.</p>
+              <p>The event consists of a series of mind-blowing challenges aimed at promoting awareness among youth by giving them a taste of what it feels to hack people, and not just systems. 😁</p>
+              <p> Just grab up your team and Register NOW at <a href="https://sectf.in">sectf.in </a> . Open to all! A stable internet connection and a laptop is all you will need. NO OTHER PREREQUISTES NEEDED! </p>
+              <p>|| NOTE || <br></br> Open to all! A stable internet connection and a laptop is all you will need. NO OTHER PREREQUISTES NEEDED! </p>
+              <p>Date: 19th February 2022<br />
+                Time: 5:00 to 8:00 pm</p>
+
               <Fader>
-              <video controls autostart autoPlay src={phantom4} type="video/mp4" />
+              <video controls autostart autoPlay src={phantom4} type="video/mp4" height={"100%"} width="100%" />
               </Fader>
   
       
