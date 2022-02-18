@@ -8,7 +8,7 @@ import { Text } from '../components/Text';
 import { Fader } from '../components/Fader';
 import { Secuence } from '../components/Secuence';
 import gspons from '../images/gcloud.jpg';
-import phantom4 from '../images/phantom4.jpeg'
+import phantom4 from '../images/sectf.mp4'
 
 const styles = theme => ({
   root: {}
@@ -38,7 +38,7 @@ class phantomCTF extends React.Component {
               2. INDIVIDUAL registrations ARE ALSO ALLOWED. Each individual registration will be considered as a SEPARATE TEAM!</p>
              
               <Fader>
-              <img src={phantom4} alt="PhantomCTF4" />
+              <video controls autostart autoPlay src={phantom4} type="video/mp4" />
               </Fader>
   
       
