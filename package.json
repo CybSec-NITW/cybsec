@@ -30,7 +30,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0",
     "react-jss": "^8.6.1",
-    "sharp": "^0.24.0"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "all-contributors-cli": "^6.4.0",
